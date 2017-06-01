@@ -7,6 +7,7 @@ Built as a Spring Boot REST with Swagger 2 for easy trigger.
 
 ## Algorithms:
 ### Sorting
-- [Quick Sort](/src/main/java/com/hoitik/javadatastructurealgorithms/algorithms/sorts/QuickSort.java)
 - [Bubble Sort](/src/main/java/com/hoitik/javadatastructurealgorithms/algorithms/sorts/BubbleSort.java)
+- [Insertion Sort](/src/main/java/com/hoitik/javadatastructurealgorithms/algorithms/sorts/InsertionSort.java)
+- [Quick Sort](/src/main/java/com/hoitik/javadatastructurealgorithms/algorithms/sorts/QuickSort.java)
 - [Merge Sort](/src/main/java/com/hoitik/javadatastructurealgorithms/algorithms/sorts/MergeSort.java)
